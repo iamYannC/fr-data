@@ -4,6 +4,7 @@
 *.zip
 *.env
 *.rds
+weddings/**/*.txt
 .aws_env.txt
 .mcp.json
 .Rhistory
