@@ -3,6 +3,7 @@
 *.dbf
 *.zip
 *.env
+*.rds
 .aws_env.txt
 .mcp.json
 .Rhistory
